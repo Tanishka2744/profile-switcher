@@ -1,16 +1,52 @@
-# React + Vite
+# 👤 React Profile Switcher
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Profile Switcher built with React.js and CSS.
 
-Currently, two official plugins are available:
+Click on different profile cards to dynamically switch the displayed profile information with smooth transitions and an interactive UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+Coming soon...
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 👤 4 interactive profile cards
+- 🔄 Dynamic profile switching
+- 🎯 Active profile highlighting
+- 🖼️ Profile avatar display
+- 💼 Role and bio information
+- 🛠️ Dynamic skills display
+- ✨ Smooth UI transitions
+- 📱 Fully responsive design
+- 🪟 Modern glassmorphism-style UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- React.js
+- JavaScript
+- CSS
+- Vite
+
+## 🧠 React Concepts Used
+
+- `useState`
+- Props
+- `.map()`
+- Arrays & Objects
+- Conditional rendering
+- Dynamic classes
+- Event handling
+- Reusable components
+
+## 📂 Project Structure
+
+```text
+profile-switcher/
+├── src/
+│   ├── App.jsx
+│   ├── App.css
+│   └── index.css
+├── public/
+├── index.html
+├── package.json
+└── vite.config.js
